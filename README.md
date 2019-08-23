@@ -11,7 +11,7 @@ The application allows user to enter their name and then they usernames, and hav
 ##Date: 13/07/2018
 This was the day of development.
 ## Development server
-** Git clone from Github using this link https://github.com/JOFLIX/Git-Seacrh.git
+** Git clone from Github using this link https://github.com/hukish/github-search.git
  * The developer then creates a new project with the same name ng new Git-seacrhes,
  * Copy the inside directories the created empty app;
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
