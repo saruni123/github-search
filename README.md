@@ -1,24 +1,40 @@
-#### By **NJOROGE KARUGU.**
-## Description
-The github search is an application designed to help the user search for github users info. The user is able to view the numbers of  public repositories and see followers and people the user following. the user can also view other people's repositories by searching their user names..
-## Setup/Installation Requirements
+# Title: Git-Searches
+# Developer
+Hudson Kishoyian.
 
-* Connect to internet
-* There you are.
-The github app can be view on mobile or computer and with ease and it is made for easy learning.
-## App Specifications
-In this github search application, the user enters his/her user name and then can view the number of repositories of the account user. The user can also be able to view the number of followers and the number of people following him/her. There is also a link to the github of the username search that directs the user to his/her account where he/she can view information about the user name account searched.
-The app also shows the user when the repositories were created and and even an image of of the user in case he/she has put a picture on the github account.
+## Description
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6
+
+The application allows user to enter their name and then they usernames, and have a list of their popular repository displayed and an option to view the GitHub pages.
+
+##Date: 13/07/2018
+This was the day of development.
+## Development server
+** Git clone from Github using this link https://github.com/JOFLIX/Git-Seacrh.git
+ * The developer then creates a new project with the same name ng new Git-seacrhes,
+ * Copy the inside directories the created empty app;
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Usage by Users
+
+A user can follow this link to get to the following deployed link:https://joflix.github.io/Profile-Search/
+
+## BDD
+
+** Input:
+User inputs the username on the input field at the top,
+
+** Output: The user gets the output displayed
 ## Known Bugs
-All safe , no bugs will be encoutered on my github app. But in case it is unfortunately encountered kindly reach to me on email..
-## Technologies Used
-* HTML.
-* CSS.
-* Angular JS
-* Git Hub
-* Terminal
-## Support and contact details
-For contact information email @ karugunjoroge@gmail.com.
-### License
-*[MIT]
-Copyright (c) 2019 **NJOROGE KARUGU**
+As at now, there is none, but in case of any, dont hesitate to contact me
+
+
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Contact
+ # Name: Joflix Ooko
+ # Email1: joflixo@gmail.com
