@@ -1,10 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 body {
-    
-    background-image: url(src/assets/yancy-min-842ofHC6MaI-unsplash.jpg);
-    background-size:cover;
-    background-attachment:fixed;
-    background-repeat: no-repeat;
+
+    background color: grey:
 }
 
 input[type=text] {
