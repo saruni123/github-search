@@ -20,12 +20,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 A user can follow this link to get to the following deployed link:https://hukish.github.io/github-Search/
 
-## BDD
 
-** Input:
-User inputs the username on the input field at the top,
+### BDD
+| Behavior        | Result |
+| ------------- |:----:|
+| User inputs username  | Profile of the searched user appears on the results section |
+| User clicks on the search  | page redirects and shows the search details which are   |
 
-** Output: The user gets the output displayed
 ## Known Bugs
 As at now, there is none, but in case of any, dont hesitate to contact me
 
@@ -35,6 +36,8 @@ As at now, there is none, but in case of any, dont hesitate to contact me
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Contact
- # Name: Joflix Ooko
- # Email1: joflixo@gmail.com
+## Support and contact details
+    {Contact me on my email address :hudsonhukish@outlook.com}
+### License
+    MIT License.
+    Copyright (c) {2019}
