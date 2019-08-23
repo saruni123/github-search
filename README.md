@@ -18,7 +18,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Usage by Users
 
-A user can follow this link to get to the following deployed link:https://joflix.github.io/Profile-Search/
+A user can follow this link to get to the following deployed link:https://hukish.github.io/github-Search/
 
 ## BDD
 
